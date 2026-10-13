@@ -1,7 +1,7 @@
-| [DeltaChat](https://github.com/deltachat) | DeltaChat Bots | [chatmail infrastructure](https://github.com/chatmail) | [webxdc: Private Apps](https://github.com/webxdc) | [cosmos](https://cosmos.delta.chat) |
+| [Delta Chat](https://github.com/deltachat) | Delta Chat Bots | [chatmail infrastructure](https://github.com/chatmail) | [webxdc: Private Apps](https://github.com/webxdc) | [cosmos](https://cosmos.delta.chat) |
 | ----------------------------------------- | -------------- | ------------------------------------------------------ | ------------------------------------------------- | ----------------------------------- |
 
-## Bots for DeltaChat
+## Bots for Delta Chat
 
 Bots are Delta Chat’s bridges into the rest of the world.
 
